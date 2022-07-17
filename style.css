@@ -78,3 +78,6 @@ section p {
   border-image: linear-gradient(cyan, blue);
   border-image-slice: 1;
 }
+footer p {
+  text-align: center;
+}
